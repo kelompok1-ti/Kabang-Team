@@ -4,3 +4,4 @@ KABANG TEAM Resolusi
 - Membuat konten C
 - Membuat konten D
 - Membuat Desain
+- Membuat framework
