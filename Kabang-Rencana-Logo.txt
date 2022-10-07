@@ -3,7 +3,10 @@ Rencana Logo Kabang
 - Logo 1
   * Logo 1.a
   * Logo 1.b
+   ^ Kabang1
 - Logo 2
 - Logo 3
+   ^ Kabang3
 - Logo 4
 - Logo 5
+- Logo 6
