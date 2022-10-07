@@ -1,0 +1,8 @@
+Rencana Logo Kabang
+
+- Logo 1
+  * Logo 1.a
+  * Logo 1.b
+- Logo 2
+- Logo 3
+- Logo 4
