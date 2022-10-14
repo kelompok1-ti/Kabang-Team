@@ -1,7 +1,0 @@
-KABANG TEAM Resolusi
-- Membuat konten A
-- Membuat konten B
-- Membuat konten C
-- Membuat konten D
-- Membuat Desain
-- Membuat framework
