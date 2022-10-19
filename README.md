@@ -9,4 +9,4 @@ M Rasyid Siddiq - 2010063 <br>
 Naufal Mu'afa - 2010029 <br>
 
 Kunjungi website kami <br> 
-https://kelompok1-ti.github.io/Kabang-Team/
+https://tiny.one/kabang
